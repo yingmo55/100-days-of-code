@@ -4,7 +4,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
-
-### R1D2
+### R1D0
+- Worked on a resource page for a community website
+- Worked on the HalfModal ticket for [Phlask](https://codeforphilly.org/projects/phlask--life-liberty_and_the_pursuit_of_water)
